@@ -2,6 +2,10 @@
   "name": "grd_bronislav",
   "version": "1.0.0",
   "description": "module fot getting random data",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bronislav86/-_Node.Js/tree/1ebba4a7bb57f88d14a90cc9b0a3b974c3672439/Lesson2/GRD"
+    },
   "main": "index.js",
   "scripts": {
     "start": "node ./index.js"
