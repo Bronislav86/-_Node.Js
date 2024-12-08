@@ -1,0 +1,17 @@
+{
+  "name": "grd_bronislav",
+  "version": "1.0.0",
+  "description": "module fot getting random data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [
+    "random",
+    "name",
+    "date",
+    "digit"
+  ],
+  "author": "Bronislav",
+  "license": "ISC"
+}
