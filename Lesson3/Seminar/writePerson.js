@@ -9,5 +9,3 @@ const person = {
 };
 
 fs.writeFileSync(path.join(__dirname, "person.json"), JSON.stringify(person, null, 2));
-
-fs;
