@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  margin: 15px auto 25px auto;
+}
+
+a {
+  color: blueviolet;
+  text-decoration: none;
+  size: 19px;
+}
+
+.bground {
+  background-image: url('./ubuntu_by_arman1992.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
