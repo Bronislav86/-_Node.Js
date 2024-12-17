@@ -1,0 +1,25 @@
+{
+  "name": "crud_users",
+  "version": "1.0.0",
+  "description": "crud operations for users API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bronislav86/-_Node.Js.git#1a06a260d461f16de5f06304d9c88f7209c3cb7c"
+  },
+  "author": "Bronislav Shevchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bronislav86/-_Node.Js/issues"
+  },
+  "homepage": "https://github.com/Bronislav86/-_Node.Js/tree/1a06a260d461f16de5f06304d9c88f7209c3cb7c#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "joi": "^17.13.3",
+    "nodemon": "^3.1.9"
+  }
+}
